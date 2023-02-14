@@ -37,10 +37,11 @@ header{
 }
 
 header > p{
-    width: 437px;
+    width: 395px;
     height: 41px;
     margin: auto;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 header > h1{
