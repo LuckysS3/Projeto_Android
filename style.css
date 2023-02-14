@@ -39,9 +39,10 @@ header{
 header > p{
     width: 395px;
     height: 41px;
+    text-align: center;
     margin: auto;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 }
 
 header > h1{
